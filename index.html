@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tax Forms Catalog</title>
+    <meta
+      name="description"
+      content="Searchable catalog of IRS forms and selected official state tax form sources."
+    >
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="topbar__inner">
+        <div>
+          <p class="eyebrow">Official source index</p>
+          <h1>Tax Forms Catalog</h1>
+          <p class="lede">
+            IRS current and prior-year products plus East Coast states, Texas,
+            California, Missouri, Mississippi, and Washington.
+          </p>
+        </div>
+        <nav class="quick-links" aria-label="Catalog downloads">
+          <a href="data/irs/current/forms.json">
+            <span aria-hidden="true">JSON</span>
+            IRS current
+          </a>
+          <a href="data/irs/prior/forms.json">
+            <span aria-hidden="true">JSON</span>
+            IRS prior
+          </a>
+          <a href="data/states/forms.json">
+            <span aria-hidden="true">JSON</span>
+            States
+          </a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="search-band" aria-label="Search and filters">
+        <div class="search-shell">
+          <div class="search-row">
+            <label class="visually-hidden" for="searchInput">Search forms</label>
+            <div class="search-box">
+              <svg aria-hidden="true" viewBox="0 0 24 24">
+                <path d="m21 20-5.6-5.6a7 7 0 1 0-1.4 1.4L20 21zM5 10a5 5 0 1 1 10 0 5 5 0 0 1-10 0z"></path>
+              </svg>
+              <input
+                id="searchInput"
+                type="search"
+                autocomplete="off"
+                placeholder="Search 1040, W-2, Form 540, withholding..."
+              >
+              <button class="icon-button" id="clearSearch" type="button" title="Clear search">
+                <span class="visually-hidden">Clear search</span>
+                <svg aria-hidden="true" viewBox="0 0 24 24">
+                  <path d="m6.4 5 12.6 12.6-1.4 1.4L5 6.4zm12.6 1.4L6.4 19 5 17.6 17.6 5z"></path>
+                </svg>
+              </button>
+            </div>
+          </div>
+
+          <div class="segment" role="group" aria-label="Dataset filter">
+            <button class="segment__button is-active" type="button" data-dataset="all">All</button>
+            <button class="segment__button" type="button" data-dataset="irs-current">IRS current</button>
+            <button class="segment__button" type="button" data-dataset="irs-prior">IRS prior</button>
+            <button class="segment__button" type="button" data-dataset="states">States</button>
+          </div>
+
+          <div class="filters">
+            <label>
+              Jurisdiction
+              <select id="jurisdictionFilter"></select>
+            </label>
+            <label>
+              Type
+              <select id="typeFilter"></select>
+            </label>
+            <label>
+              Year
+              <select id="yearFilter"></select>
+            </label>
+            <label>
+              File
+              <select id="fileFilter"></select>
+            </label>
+          </div>
+        </div>
+      </section>
+
+      <section class="metrics" aria-label="Catalog totals">
+        <div>
+          <span id="totalCount">0</span>
+          <small>Total records</small>
+        </div>
+        <div>
+          <span id="federalCount">0</span>
+          <small>IRS records</small>
+        </div>
+        <div>
+          <span id="stateCount">0</span>
+          <small>State records</small>
+        </div>
+        <div>
+          <span id="shownCount">0</span>
+          <small>Matching now</small>
+        </div>
+      </section>
+
+      <section class="results-section" aria-labelledby="resultsHeading">
+        <div class="results-bar">
+          <div>
+            <p class="eyebrow">Search results</p>
+            <h2 id="resultsHeading">Forms and source pages</h2>
+          </div>
+          <p id="loadStatus" role="status">Loading catalogs...</p>
+        </div>
+        <ol class="results-list" id="resultsList"></ol>
+        <div class="empty-state" id="emptyState" hidden>
+          <h3>No matching records</h3>
+          <p>Try a different form number, tax type, state, or year.</p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>
+        This repository indexes public tax form resources. It is not tax advice.
+        Verify filing requirements and deadlines with the relevant tax agency.
+      </p>
+    </footer>
+
+    <script src="assets/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,279 @@
+{
+  "generated_for": "East Coast states plus Texas, California, Missouri, Mississippi, and Washington",
+  "east_coast_definition": "Atlantic coastal states: Maine, New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Delaware, Maryland, Virginia, North Carolina, South Carolina, Georgia, and Florida.",
+  "jurisdictions": [
+    {
+      "agency": "Maine Revenue Services",
+      "code": "ME",
+      "name": "Maine",
+      "notes": "Official tax return forms portal.",
+      "region": "east_coast",
+      "source_urls": [
+        {
+          "label": "Tax Return Forms",
+          "url": "https://www.maine.gov/revenue/tax-return-forms"
+        }
+      ]
+    },
+    {
+      "agency": "New Hampshire Department of Revenue Administration",
+      "code": "NH",
+      "name": "New Hampshire",
+      "notes": "New Hampshire has no broad-based personal income tax or sales tax; the forms portal focuses on administered taxes such as business, meals and rooms, and interest/dividends legacy filings.",
+      "region": "east_coast",
+      "source_urls": [
+        {
+          "label": "Forms",
+          "url": "https://www.revenue.nh.gov/forms"
+        }
+      ]
+    },
+    {
+      "agency": "Massachusetts Department of Revenue",
+      "code": "MA",
+      "name": "Massachusetts",
+      "notes": "Official DOR tax forms and instructions index.",
+      "region": "east_coast",
+      "source_urls": [
+        {
+          "label": "DOR Tax Forms and Instructions",
+          "url": "https://www.mass.gov/info-details/massachusetts-dor-tax-forms-and-instructions"
+        }
+      ]
+    },
+    {
+      "agency": "Rhode Island Division of Taxation",
+      "code": "RI",
+      "name": "Rhode Island",
+      "notes": "Official forms portal with category and archived-form links.",
+      "region": "east_coast",
+      "source_urls": [
+        {
+          "label": "Forms",
+          "url": "https://tax.ri.gov/forms"
+        }
+      ]
+    },
+    {
+      "agency": "Connecticut Department of Revenue Services",
+      "code": "CT",
+      "name": "Connecticut",
+      "notes": "Official DRS forms portal.",
+      "region": "east_coast",
+      "source_urls": [
+        {
+          "label": "DRS Forms",
+          "url": "https://portal.ct.gov/drs/drs-forms/forms/drs-forms"
+        },
+        {
+          "label": "Current Year Forms",
+          "url": "https://portal.ct.gov/DRS/DRS-Forms/Current-Year-Forms"
+        }
+      ]
+    },
+    {
+      "agency": "New York State Department of Taxation and Finance",
+      "code": "NY",
+      "name": "New York",
+      "notes": "Official New York State tax forms index.",
+      "region": "east_coast",
+      "source_urls": [
+        {
+          "label": "Forms",
+          "url": "https://www.tax.ny.gov/forms/"
+        }
+      ]
+    },
+    {
+      "agency": "New Jersey Division of Taxation",
+      "code": "NJ",
+      "name": "New Jersey",
+      "notes": "Official forms and e-file portal.",
+      "region": "east_coast",
+      "source_urls": [
+        {
+          "label": "Forms and E-File",
+          "url": "https://www.nj.gov/treasury/taxation/forms/index.shtml"
+        }
+      ]
+    },
+    {
+      "agency": "Delaware Division of Revenue",
+      "code": "DE",
+      "name": "Delaware",
+      "notes": "Official Division of Revenue forms portal.",
+      "region": "east_coast",
+      "source_urls": [
+        {
+          "label": "Forms",
+          "url": "https://revenue.delaware.gov/forms/"
+        }
+      ]
+    },
+    {
+      "agency": "Comptroller of Maryland",
+      "code": "MD",
+      "name": "Maryland",
+      "notes": "Official Maryland individual and business tax forms guidance pages.",
+      "region": "east_coast",
+      "source_urls": [
+        {
+          "label": "Individual Tax Forms and Instructions",
+          "url": "https://services.marylandcomptroller.gov/taxes?id=kb_article_view&sysparm_article=KB0010016"
+        },
+        {
+          "label": "Business Tax Forms and Instructions",
+          "url": "https://services.marylandcomptroller.gov/taxes?id=kb_article_view&sysparm_article=KB0010129"
+        }
+      ]
+    },
+    {
+      "agency": "Virginia Tax",
+      "code": "VA",
+      "name": "Virginia",
+      "notes": "Official forms and instructions search.",
+      "region": "east_coast",
+      "source_urls": [
+        {
+          "label": "Forms Search",
+          "url": "https://www.tax.virginia.gov/forms/search"
+        }
+      ]
+    },
+    {
+      "agency": "North Carolina Department of Revenue",
+      "code": "NC",
+      "name": "North Carolina",
+      "notes": "Official tax forms and instructions portal.",
+      "region": "east_coast",
+      "source_urls": [
+        {
+          "label": "Find Tax Forms and Instructions",
+          "url": "https://www.ncdor.gov/taxes-forms/find-tax-forms-and-instructions"
+        },
+        {
+          "label": "Individual Income Tax Forms and Instructions",
+          "url": "https://www.ncdor.gov/taxes-forms/individual-income-tax/individual-income-tax-forms-instructions"
+        }
+      ]
+    },
+    {
+      "agency": "South Carolina Department of Revenue",
+      "code": "SC",
+      "name": "South Carolina",
+      "notes": "Official find-a-form search and tax-type form pages.",
+      "region": "east_coast",
+      "source_urls": [
+        {
+          "label": "Find a Form",
+          "url": "https://dor.sc.gov/find-a-form"
+        },
+        {
+          "label": "Individual Income Tax Forms",
+          "url": "https://dor.sc.gov/tax/individual-income/forms"
+        }
+      ]
+    },
+    {
+      "agency": "Georgia Department of Revenue",
+      "code": "GA",
+      "name": "Georgia",
+      "notes": "Official forms listing.",
+      "region": "east_coast",
+      "source_urls": [
+        {
+          "label": "Forms",
+          "url": "https://dor.georgia.gov/documents/forms/type"
+        }
+      ]
+    },
+    {
+      "agency": "Florida Department of Revenue",
+      "code": "FL",
+      "name": "Florida",
+      "notes": "Official forms and publications index. Florida has no broad-based personal income tax; this index covers administered state taxes and fees.",
+      "region": "east_coast",
+      "source_urls": [
+        {
+          "label": "Forms and Publications",
+          "url": "https://floridarevenue.com/Pages/forms_index.aspx"
+        }
+      ]
+    },
+    {
+      "agency": "Texas Comptroller of Public Accounts",
+      "code": "TX",
+      "name": "Texas",
+      "notes": "Official Texas tax forms index. Texas has no broad-based personal income tax.",
+      "region": "requested",
+      "source_urls": [
+        {
+          "label": "Texas Tax Forms",
+          "url": "https://comptroller.texas.gov/forms/"
+        }
+      ]
+    },
+    {
+      "agency": "California Franchise Tax Board",
+      "code": "CA",
+      "name": "California",
+      "notes": "Official FTB forms and publications search.",
+      "region": "requested",
+      "source_urls": [
+        {
+          "label": "Forms and Publications",
+          "url": "https://www.ftb.ca.gov/forms/"
+        }
+      ]
+    },
+    {
+      "agency": "Missouri Department of Revenue",
+      "code": "MO",
+      "name": "Missouri",
+      "notes": "Official forms and manuals search.",
+      "region": "requested",
+      "source_urls": [
+        {
+          "label": "Forms and Manuals",
+          "url": "https://dor.mo.gov/forms/"
+        }
+      ]
+    },
+    {
+      "agency": "Mississippi Department of Revenue",
+      "code": "MS",
+      "name": "Mississippi",
+      "notes": "Official form search and individual income tax forms.",
+      "region": "requested",
+      "source_urls": [
+        {
+          "allow_insecure_ssl": true,
+          "label": "Form Search",
+          "url": "https://www.dor.ms.gov/forms-resources/form-search"
+        },
+        {
+          "allow_insecure_ssl": true,
+          "label": "Individual Income Tax Forms",
+          "url": "https://www.dor.ms.gov/individual/individual-income-tax-forms"
+        }
+      ]
+    },
+    {
+      "agency": "Washington Department of Revenue",
+      "code": "WA",
+      "name": "Washington",
+      "notes": "Official forms by subject and name. Washington does not impose personal or corporate income tax.",
+      "region": "requested",
+      "source_urls": [
+        {
+          "label": "Forms by Subject",
+          "url": "https://dor.wa.gov/forms-publications/forms-subject"
+        },
+        {
+          "label": "Forms by Name",
+          "url": "https://dor.wa.gov/forms-publications/forms-name"
+        }
+      ]
+    }
+  ]
+}
