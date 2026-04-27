@@ -1,6 +1,6 @@
 {
   "dataset": "current",
-  "generated_at": "2026-04-23T09:29:38+00:00",
+  "generated_at": "2026-04-27T11:22:34+00:00",
   "label": "Current IRS forms, instructions, and publications",
   "record_count": 3112,
   "records": [
@@ -646,10 +646,10 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f433aois.pdf",
-      "posted_date": "04/18/2025",
+      "posted_date": "04/23/2026",
       "product_number": "Form 433-A (OIC) (sp)",
-      "revision_date": "Apr 2025",
-      "revision_year": "2025",
+      "revision_date": "Apr 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=0",
       "title": "Collection Information Statement for Wage Earners and Self-Employed Individuals (Spanish Version)"
     },
@@ -690,12 +690,12 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f433bois.pdf",
-      "posted_date": "04/18/2025",
+      "posted_date": "04/23/2026",
       "product_number": "Form 433-B (OIC) (sp)",
-      "revision_date": "Apr 2025",
-      "revision_year": "2025",
+      "revision_date": "Apr 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=0",
-      "title": "Collection Information Statement for Businesses (Spanish Version)"
+      "title": "Collection Information Statement For Businesses (Spanish Version)"
     },
     {
       "dataset": "current",
@@ -1669,12 +1669,12 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f656bsp.pdf",
-      "posted_date": "04/18/2025",
+      "posted_date": "04/23/2026",
       "product_number": "Form 656-B (sp)",
-      "revision_date": "Apr 2025",
-      "revision_year": "2025",
+      "revision_date": "Apr 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=0",
-      "title": "Form 656 Booklet Offer in Compromise (Spanish Version)"
+      "title": "Offer in Compromise (Booklet) (Spanish Version)"
     },
     {
       "dataset": "current",
@@ -1713,10 +1713,10 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f656sp.pdf",
-      "posted_date": "04/18/2025",
+      "posted_date": "04/23/2026",
       "product_number": "Form 656 (sp)",
-      "revision_date": "Apr 2025",
-      "revision_year": "2025",
+      "revision_date": "Apr 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=0",
       "title": "Offer in Compromise (Spanish Version)"
     },
@@ -3165,23 +3165,23 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f941x.pdf",
-      "posted_date": "04/16/2025",
+      "posted_date": "04/24/2026",
       "product_number": "Form 941-X",
-      "revision_date": "Apr 2025",
-      "revision_year": "2025",
+      "revision_date": "Apr 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=1",
-      "title": "Adjusted Employer's Quarterly Federal Tax Return or Claim for Refund"
+      "title": "Adjusted Employer's QUARTERLY Federal Tax Return or Claim for Refund"
     },
     {
       "dataset": "current",
       "kind": "instruction",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/i941x.pdf",
-      "posted_date": "04/16/2025",
+      "posted_date": "04/24/2026",
       "product_number": "Instruction 941-X",
-      "revision_date": "Apr 2025",
-      "revision_year": "2025",
+      "revision_date": "Apr 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=1",
-      "title": "Instructions for Form 941-X, Adjusted Employer's Quarterly Federal Tax Return or Claim for Refund"
+      "title": "Instructions for Form 941-X, Adjusted Employer's QUARTERLY Federal Tax Return or Claim for Refund"
     },
     {
       "dataset": "current",
@@ -15573,12 +15573,12 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p5349asp.pdf",
-      "posted_date": "04/22/2026",
+      "posted_date": "04/23/2026",
       "product_number": "Publication 5349-A (sp)",
       "revision_date": "Dec 2025",
       "revision_year": "2025",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=7",
-      "title": "Year-round planning for taxes (Spanish Version)"
+      "title": "Year-Round Planning for Taxes (Spanish Version)"
     },
     {
       "dataset": "current",
@@ -20963,10 +20963,10 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p5731bzh.pdf",
-      "posted_date": "04/18/2024",
+      "posted_date": "04/23/2026",
       "product_number": "Publication 5731-B (zh-s)",
-      "revision_date": "Feb 2024",
-      "revision_year": "2024",
+      "revision_date": "Nov 2025",
+      "revision_year": "2025",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=9",
       "title": "Are you making money selling things or providing a service? (Chinese-Simplified Version)"
     },
@@ -22822,10 +22822,10 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p5961.pdf",
-      "posted_date": "05/03/2024",
+      "posted_date": "04/27/2026",
       "product_number": "Publication 5961",
-      "revision_date": "Apr 2024",
-      "revision_year": "2024",
+      "revision_date": "Apr 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=10",
       "title": "Protect your business from tax scams"
     },
@@ -22855,12 +22855,12 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p5965.pdf",
-      "posted_date": "05/15/2025",
+      "posted_date": "04/23/2026",
       "product_number": "Publication 5965",
-      "revision_date": "May 2025",
-      "revision_year": "2025",
+      "revision_date": "Apr 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=10",
-      "title": "Partner Promotion Bundle: National Small Business Week"
+      "title": "National Small Business Week"
     },
     {
       "dataset": "current",
