@@ -1,8 +1,8 @@
 {
   "dataset": "current",
-  "generated_at": "2026-05-04T11:20:34+00:00",
+  "generated_at": "2026-05-11T12:26:28+00:00",
   "label": "Current IRS forms, instructions, and publications",
-  "record_count": 3108,
+  "record_count": 3109,
   "records": [
     {
       "dataset": "current",
@@ -6476,21 +6476,21 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f1099g.pdf",
-      "posted_date": "03/06/2024",
+      "posted_date": "05/04/2026",
       "product_number": "Form 1099-G",
-      "revision_date": "Mar 2024",
-      "revision_year": "2024",
+      "revision_date": "Dec 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=2",
-      "title": "Certain Government Payments (Info Copy Only)"
+      "title": "Certain Government Payments"
     },
     {
       "dataset": "current",
       "kind": "instruction",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/i1099g.pdf",
-      "posted_date": "03/28/2024",
+      "posted_date": "05/05/2026",
       "product_number": "Instruction 1099-G",
-      "revision_date": "Mar 2024",
-      "revision_year": "2024",
+      "revision_date": "Dec 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=2",
       "title": "Instructions for Form 1099-G, Certain Government Payments"
     },
@@ -6608,12 +6608,12 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f1099msc.pdf",
-      "posted_date": "03/12/2025",
+      "posted_date": "05/08/2026",
       "product_number": "Form 1099-MISC",
-      "revision_date": "Apr 2025",
-      "revision_year": "2025",
+      "revision_date": "Dec 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=3",
-      "title": "Miscellaneous Information (Info Copy Only)"
+      "title": "Miscellaneous Information"
     },
     {
       "dataset": "current",
@@ -8225,12 +8225,12 @@
       "dataset": "current",
       "kind": "notice",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/n1421.pdf",
-      "posted_date": "03/30/2021",
+      "posted_date": "05/07/2026",
       "product_number": "Notice 1421",
-      "revision_date": "Jan 2012",
-      "revision_year": "2012",
+      "revision_date": "May 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=3",
-      "title": "How Bankruptcy Affects Your Rights to File a Petition in Tax Court in Response to a Notice of Deficiency"
+      "title": "How Bankruptcy Affects Your Right to File a Petition in Tax Court in Response to a Notice of Deficiency"
     },
     {
       "dataset": "current",
@@ -9402,12 +9402,12 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p3319.pdf",
-      "posted_date": "05/16/2025",
+      "posted_date": "05/05/2026",
       "product_number": "Publication 3319",
-      "revision_date": "May 2025",
-      "revision_year": "2025",
+      "revision_date": "May 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=4",
-      "title": "Low Income Taxpayer Clinics (LITC) Grant Application Package and Guidelines"
+      "title": "Low Income Taxpayer Clinics (LITC) Grant Application Package and Guidelines for 2027"
     },
     {
       "dataset": "current",
@@ -15903,9 +15903,9 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p5376b.pdf",
-      "posted_date": "04/16/2026",
+      "posted_date": "05/07/2026",
       "product_number": "Publication 5376-B",
-      "revision_date": "Apr 2026",
+      "revision_date": "May 2026",
       "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=7",
       "title": "TCE Grant Reporting Requirements"
@@ -23328,7 +23328,7 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p6028.pdf",
-      "posted_date": "05/01/2026",
+      "posted_date": "05/06/2026",
       "product_number": "Publication 6028",
       "revision_date": "May 2026",
       "revision_year": "2026",
@@ -23856,9 +23856,9 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p6086.pdf",
-      "posted_date": "04/08/2026",
+      "posted_date": "05/08/2026",
       "product_number": "Publication 6086",
-      "revision_date": "Apr 2026",
+      "revision_date": "May 2026",
       "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=10",
       "title": "Volunteer Income Tax Assistance (VITA) Grant Program"
@@ -23972,6 +23972,17 @@
       "revision_year": "2025",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=10",
       "title": "Get Help with Tax Debt"
+    },
+    {
+      "dataset": "current",
+      "kind": "publication",
+      "pdf_url": "https://www.irs.gov/pub/irs-pdf/p6108.pdf",
+      "posted_date": "05/05/2026",
+      "product_number": "Publication 6108",
+      "revision_date": "May 2026",
+      "revision_year": "2026",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=10",
+      "title": "LITC Notice of Funding Opportunity Brochure"
     },
     {
       "dataset": "current",
@@ -24201,7 +24212,7 @@
       "product_number": "Publication 6139",
       "revision_date": "Feb 2026",
       "revision_year": "2026",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=10",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=11",
       "title": "Stay Alert Report Suspicious Activity"
     },
     {
@@ -26265,10 +26276,10 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f8653.pdf",
-      "posted_date": "10/23/2025",
+      "posted_date": "05/06/2026",
       "product_number": "Form 8653",
-      "revision_date": "Apr 2025",
-      "revision_year": "2025",
+      "revision_date": "Mar 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=11",
       "title": "Tax Counseling for the Elderly Program Application Plan"
     },
@@ -26276,12 +26287,12 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f8654.pdf",
-      "posted_date": "04/20/2016",
+      "posted_date": "05/07/2026",
       "product_number": "Form 8654",
-      "revision_date": "Apr 2016",
-      "revision_year": "2016",
+      "revision_date": "Mar 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=11",
-      "title": "Tax Counseling for the Elderly Program Semi-Annual/Annual Program Report"
+      "title": "Tax Counseling for the Elderly Semi-Annual / Annual Program Report"
     },
     {
       "dataset": "current",
@@ -26401,7 +26412,7 @@
       "product_number": "Form 8725",
       "revision_date": "Dec 2025",
       "revision_year": "2025",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=11",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=12",
       "title": "Excise Tax on Greenmail"
     },
     {
@@ -28601,7 +28612,7 @@
       "product_number": "Instruction 8918",
       "revision_date": "Nov 2021",
       "revision_year": "2021",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=12",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=13",
       "title": "Instructions for Form 8918, Material Advisor Disclosure Statement"
     },
     {
@@ -30801,7 +30812,7 @@
       "product_number": "Form 13615 (sp)",
       "revision_date": "Oct 2025",
       "revision_year": "2025",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=13",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=14",
       "title": "Volunteer Standards of Conduct Agreement - VITA/TCE Programs (Spanish Version)"
     },
     {
@@ -33001,7 +33012,7 @@
       "product_number": "Form 15320",
       "revision_date": "May 2024",
       "revision_year": "2024",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=14",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=15",
       "title": "Application for Security Summit Membership"
     },
     {
