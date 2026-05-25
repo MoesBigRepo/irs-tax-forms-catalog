@@ -1,20 +1,13 @@
 {
   "dataset": "states",
-  "errors": [
-    {
-      "error": "failed to fetch https://ispportal.floridarevenue.com/ExternalFormsOrdering: HTTP Error 404: Not Found",
-      "jurisdiction_code": "FL",
-      "source_label": "Order Form",
-      "url": "https://ispportal.floridarevenue.com/ExternalFormsOrdering"
-    }
-  ],
-  "generated_at": "2026-05-18T12:50:05+00:00",
-  "record_count": 4118,
+  "errors": [],
+  "generated_at": "2026-05-25T12:47:44+00:00",
+  "record_count": 4106,
   "record_count_by_state": {
     "CA": 32,
     "CT": 56,
     "DE": 201,
-    "FL": 506,
+    "FL": 505,
     "GA": 8,
     "MA": 8,
     "MD": 2,
@@ -29,10 +22,10 @@
     "SC": 55,
     "TX": 48,
     "VA": 186,
-    "WA": 184
+    "WA": 173
   },
   "record_count_by_type": {
-    "document": 3983,
+    "document": 3971,
     "source_page": 135
   }
 }
