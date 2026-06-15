@@ -6,14 +6,20 @@
       "jurisdiction_code": "NH",
       "source_label": "Forms",
       "url": "https://www.revenue.nh.gov/forms"
+    },
+    {
+      "error": "failed to fetch https://revenue.delaware.gov/forms/: <urlopen error timed out>",
+      "jurisdiction_code": "DE",
+      "source_label": "Forms",
+      "url": "https://revenue.delaware.gov/forms/"
     }
   ],
-  "generated_at": "2026-06-08T13:24:31+00:00",
-  "record_count": 3388,
+  "generated_at": "2026-06-15T15:30:01+00:00",
+  "record_count": 3188,
   "record_count_by_state": {
     "CA": 32,
     "CT": 56,
-    "DE": 201,
+    "DE": 1,
     "FL": 505,
     "GA": 8,
     "MA": 8,
@@ -32,7 +38,7 @@
     "WA": 173
   },
   "record_count_by_type": {
-    "document": 3256,
-    "source_page": 132
+    "document": 3062,
+    "source_page": 126
   }
 }
