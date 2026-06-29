@@ -1,6 +1,6 @@
 {
   "dataset": "current",
-  "generated_at": "2026-06-22T15:03:36+00:00",
+  "generated_at": "2026-06-29T13:17:06+00:00",
   "label": "Current IRS forms, instructions, and publications",
   "record_count": 3119,
   "records": [
@@ -2241,20 +2241,20 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f720.pdf",
-      "posted_date": "04/13/2026",
+      "posted_date": "06/26/2026",
       "product_number": "Form 720",
-      "revision_date": "Mar 2026",
+      "revision_date": "Jun 2026",
       "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=1",
-      "title": "Quarterly Federal Excise Tax Return - Quarter 1"
+      "title": "Quarterly Federal Excise Tax Return"
     },
     {
       "dataset": "current",
       "kind": "instruction",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/i720.pdf",
-      "posted_date": "04/14/2026",
+      "posted_date": "06/26/2026",
       "product_number": "Instruction 720",
-      "revision_date": "Mar 2026",
+      "revision_date": "Jun 2026",
       "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=1",
       "title": "Instructions for Form 720, Quarterly Federal Excise Tax Return"
@@ -6168,12 +6168,12 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f1096.pdf",
-      "posted_date": "04/01/2025",
+      "posted_date": "06/24/2026",
       "product_number": "Form 1096",
-      "revision_date": "2025",
-      "revision_year": "2025",
+      "revision_date": "2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=2",
-      "title": "Annual Summary and Transmittal of U.S. Information Returns (Info Copy Only)"
+      "title": "Annual Summary and Transmittal of U.S. Information Returns"
     },
     {
       "dataset": "current",
@@ -6729,21 +6729,21 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f1099r.pdf",
-      "posted_date": "03/24/2025",
+      "posted_date": "06/23/2026",
       "product_number": "Form 1099-R",
-      "revision_date": "2025",
-      "revision_year": "2025",
+      "revision_date": "2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=3",
-      "title": "Distributions From Pensions, Annuities, Retirement or Profit-Sharing Plans, IRAs, Insurance Contracts, etc. (Info Copy Only)"
+      "title": "Distributions From Pensions, Annuities, Retirement or Profit-Sharing Plans, IRAs, Insurance Contracts, etc."
     },
     {
       "dataset": "current",
       "kind": "instruction",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/i1099r.pdf",
-      "posted_date": "05/12/2025",
+      "posted_date": "06/23/2026",
       "product_number": "Instruction 1099-R and 5498",
-      "revision_date": "2025",
-      "revision_year": "2025",
+      "revision_date": "2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=3",
       "title": "Instructions for Forms 1099-R and 5498, Distributions From Pensions, Annuities, Retirement or Profit-Sharing Plans, IRAs, Insurance Contracts, etc."
     },
@@ -8038,12 +8038,12 @@
       "dataset": "current",
       "kind": "notice",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/n1214.pdf",
-      "posted_date": "05/13/2020",
+      "posted_date": "06/22/2026",
       "product_number": "Notice 1214",
-      "revision_date": "Oct 2019",
-      "revision_year": "2019",
+      "revision_date": "Apr 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=3",
-      "title": "Helpful Contacts for Your Notice of Deficiency"
+      "title": "Helpful Contacts for Your \"Notice of Deficiency\""
     },
     {
       "dataset": "current",
@@ -12811,17 +12811,6 @@
     {
       "dataset": "current",
       "kind": "publication",
-      "pdf_url": "https://www.irs.gov/pub/irs-pdf/p4935.pdf",
-      "posted_date": "08/20/2015",
-      "product_number": "Publication 4935",
-      "revision_date": "Nov 2014",
-      "revision_year": "2014",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=5",
-      "title": "Guide to Everything Earned Income Tax Credit for Individuals"
-    },
-    {
-      "dataset": "current",
-      "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p4936.pdf",
       "posted_date": "07/11/2022",
       "product_number": "Publication 4936",
@@ -13212,7 +13201,7 @@
       "product_number": "Publication 5055",
       "revision_date": "Dec 2015",
       "revision_year": "2015",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=6",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=5",
       "title": "Free Tax Return Preparation - Don't want to wait?"
     },
     {
@@ -15287,12 +15276,12 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p5337.pdf",
-      "posted_date": "02/20/2025",
+      "posted_date": "06/23/2026",
       "product_number": "Publication 5337",
-      "revision_date": "Feb 2025",
-      "revision_year": "2025",
+      "revision_date": "Jun 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=6",
-      "title": "Individual Noncash Charitable Contributions"
+      "title": "Individual Noncash Charitable Contributions, Tax Year 2023"
     },
     {
       "dataset": "current",
@@ -15412,7 +15401,7 @@
       "product_number": "Publication 5348-A (ru)",
       "revision_date": "Dec 2025",
       "revision_year": "2025",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=7",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=6",
       "title": "Get Ready to File Taxes (Russian Version)"
     },
     {
@@ -17612,7 +17601,7 @@
       "product_number": "Form 5471 (Schedule R)",
       "revision_date": "Dec 2020",
       "revision_year": "2020",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=8",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=7",
       "title": "Distributions From a Foreign Corporation"
     },
     {
@@ -18081,12 +18070,12 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f5498.pdf",
-      "posted_date": "01/06/2025",
+      "posted_date": "06/23/2026",
       "product_number": "Form 5498",
-      "revision_date": "2025",
-      "revision_year": "2025",
+      "revision_date": "2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=8",
-      "title": "IRA Contribution Information (Info Copy Only)"
+      "title": "IRA Contribution Information"
     },
     {
       "dataset": "current",
@@ -19812,7 +19801,7 @@
       "product_number": "Publication 5580",
       "revision_date": "Aug 2024",
       "revision_year": "2024",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=9",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=8",
       "title": "Exempt Organizations Technical Guide TG 57 Taxes on Net Investment Income IRC Section 4940"
     },
     {
@@ -22012,7 +22001,7 @@
       "product_number": "Publication 5866 (sp)",
       "revision_date": "Oct 2023",
       "revision_year": "2023",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=10",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=9",
       "title": "New Clean Vehicle Tax Credit Checklist (Spanish Version)"
     },
     {
@@ -24212,7 +24201,7 @@
       "product_number": "Publication 6128",
       "revision_date": "Mar 2026",
       "revision_year": "2026",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=11",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=10",
       "title": "Protect Yourself. Know the Signs of Tax Fraud."
     },
     {
@@ -24401,6 +24390,17 @@
       "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=11",
       "title": "Amended Individual Income Tax Returns"
+    },
+    {
+      "dataset": "current",
+      "kind": "publication",
+      "pdf_url": "https://www.irs.gov/pub/irs-pdf/p6169.pdf",
+      "posted_date": "06/23/2026",
+      "product_number": "Publication 6169",
+      "revision_date": "Jun 2026",
+      "revision_year": "2026",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=11",
+      "title": "Prevailing Wage and Apprenticeship (PWA) Payments - Interest Computation for Filing Season 2026"
     },
     {
       "dataset": "current",
