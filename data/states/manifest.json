@@ -1,8 +1,8 @@
 {
   "dataset": "states",
   "errors": [],
-  "generated_at": "2026-07-20T12:01:23+00:00",
-  "record_count": 5292,
+  "generated_at": "2026-07-27T12:38:15+00:00",
+  "record_count": 5295,
   "record_count_by_state": {
     "CA": 32,
     "CT": 56,
@@ -11,7 +11,7 @@
     "GA": 8,
     "MA": 8,
     "MD": 2,
-    "ME": 83,
+    "ME": 86,
     "MO": 938,
     "MS": 2073,
     "NC": 8,
@@ -25,7 +25,7 @@
     "WA": 171
   },
   "record_count_by_type": {
-    "document": 5157,
+    "document": 5160,
     "source_page": 135
   }
 }
