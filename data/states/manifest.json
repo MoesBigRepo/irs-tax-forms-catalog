@@ -1,8 +1,15 @@
 {
   "dataset": "states",
-  "errors": [],
-  "generated_at": "2026-08-03T12:40:35+00:00",
-  "record_count": 5296,
+  "errors": [
+    {
+      "error": "failed to fetch https://www.revenue.nh.gov/forms: HTTP Error 403: Forbidden",
+      "jurisdiction_code": "NH",
+      "source_label": "Forms",
+      "url": "https://www.revenue.nh.gov/forms"
+    }
+  ],
+  "generated_at": "2026-08-10T10:40:53+00:00",
+  "record_count": 4558,
   "record_count_by_state": {
     "CA": 32,
     "CT": 56,
@@ -15,17 +22,17 @@
     "MO": 939,
     "MS": 2073,
     "NC": 8,
-    "NH": 717,
+    "NH": 1,
     "NJ": 49,
     "NY": 80,
-    "RI": 67,
+    "RI": 68,
     "SC": 55,
-    "TX": 48,
+    "TX": 47,
     "VA": 186,
-    "WA": 171
+    "WA": 149
   },
   "record_count_by_type": {
-    "document": 5161,
-    "source_page": 135
+    "document": 4426,
+    "source_page": 132
   }
 }

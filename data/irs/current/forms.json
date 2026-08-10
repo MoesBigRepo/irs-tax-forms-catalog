@@ -1,6 +1,6 @@
 {
   "dataset": "current",
-  "generated_at": "2026-08-03T12:39:38+00:00",
+  "generated_at": "2026-08-10T10:39:24+00:00",
   "label": "Current IRS forms, instructions, and publications",
   "record_count": 3130,
   "records": [
@@ -7939,10 +7939,10 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p1141.pdf",
-      "posted_date": "07/30/2025",
+      "posted_date": "08/04/2026",
       "product_number": "Publication 1141",
-      "revision_date": "Jul 2025",
-      "revision_year": "2025",
+      "revision_date": "Aug 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=3",
       "title": "General Rules and Specifications for Substitute Forms W-2 and W-3"
     },
@@ -13340,9 +13340,9 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p5084.pdf",
-      "posted_date": "07/16/2026",
+      "posted_date": "08/03/2026",
       "product_number": "Publication 5084",
-      "revision_date": "Jul 2026",
+      "revision_date": "Aug 2026",
       "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=6",
       "title": "IRS Congressional Update Newsletter"
@@ -15199,10 +15199,10 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p5332.pdf",
-      "posted_date": "10/09/2024",
+      "posted_date": "08/04/2026",
       "product_number": "Publication 5332",
-      "revision_date": "Oct 2024",
-      "revision_year": "2024",
+      "revision_date": "Jul 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=6",
       "title": "Estate Tax Returns Filed for Wealthy Decedents"
     },
@@ -16453,10 +16453,10 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p5414.pdf",
-      "posted_date": "09/26/2025",
+      "posted_date": "08/04/2026",
       "product_number": "Publication 5414",
-      "revision_date": "Oct 2025",
-      "revision_year": "2025",
+      "revision_date": "Oct 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=7",
       "title": "Fact Sheet: Minimum Returns Required for Tax Preparation Software for SPEC Partners"
     },
@@ -17300,10 +17300,10 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p5462.pdf",
-      "posted_date": "10/03/2025",
+      "posted_date": "08/06/2026",
       "product_number": "Publication 5462",
-      "revision_date": "Sep 2025",
-      "revision_year": "2025",
+      "revision_date": "Sep 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=7",
       "title": "Fact Sheet: TaxSlayer Software Ordering Guidance for SPEC Partners"
     },
@@ -20589,10 +20589,10 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p5712.pdf",
-      "posted_date": "10/04/2022",
+      "posted_date": "08/04/2026",
       "product_number": "Publication 5712",
-      "revision_date": "Sep 2022",
-      "revision_year": "2022",
+      "revision_date": "Aug 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=9",
       "title": "Capitalization of Tangible Property Audit Technique Guide"
     },
@@ -22261,12 +22261,12 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p5889.pdf",
-      "posted_date": "07/31/2025",
+      "posted_date": "08/07/2026",
       "product_number": "Publication 5889",
-      "revision_date": "Aug 2025",
-      "revision_year": "2025",
+      "revision_date": "Jul 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=10",
-      "title": "Over-The-Phone Interpreter"
+      "title": "Ad Astra: Over-The-Phone Interpreter"
     },
     {
       "dataset": "current",
@@ -32876,10 +32876,10 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f15107.pdf",
-      "posted_date": "01/30/2018",
+      "posted_date": "08/04/2026",
       "product_number": "Form 15107",
-      "revision_date": "Sep 2017",
-      "revision_year": "2017",
+      "revision_date": "Jul 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=14",
       "title": "Information Request for a Deceased Taxpayer"
     },
@@ -33800,12 +33800,12 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/fw2.pdf",
-      "posted_date": "01/09/2026",
+      "posted_date": "08/06/2026",
       "product_number": "Form W-2",
       "revision_date": "2026",
       "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=15",
-      "title": "Wage and Tax Statement (Info Copy Only)"
+      "title": "Wage and Tax Statement"
     },
     {
       "dataset": "current",
@@ -33822,12 +33822,12 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/fw2as.pdf",
-      "posted_date": "01/12/2026",
+      "posted_date": "08/04/2026",
       "product_number": "Form W-2AS",
       "revision_date": "2026",
       "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=15",
-      "title": "American Samoa Wage and Tax Statement (Info Copy Only)"
+      "title": "American Samoa Wage and Tax Statement (American Samoa Version)"
     },
     {
       "dataset": "current",
@@ -33866,23 +33866,23 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/fw2gu.pdf",
-      "posted_date": "01/12/2026",
+      "posted_date": "08/04/2026",
       "product_number": "Form W-2GU",
       "revision_date": "2026",
       "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=15",
-      "title": "Guam Wage and Tax Statement (Info Copy Only)"
+      "title": "Guam Wage and Tax Statement (Guam Version)"
     },
     {
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/fw2vi.pdf",
-      "posted_date": "01/14/2026",
+      "posted_date": "08/04/2026",
       "product_number": "Form W-2VI",
       "revision_date": "2026",
       "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=15",
-      "title": "U.S. Virgin Islands Wage and Tax Statement (Info Copy Only)"
+      "title": "U.S. Virgin Islands Wage and Tax Statement (Virgin Islands (U.S.) Version)"
     },
     {
       "dataset": "current",
