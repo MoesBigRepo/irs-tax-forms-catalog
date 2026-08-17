@@ -8,31 +8,31 @@
       "url": "https://www.revenue.nh.gov/forms"
     }
   ],
-  "generated_at": "2026-08-10T10:40:53+00:00",
-  "record_count": 4558,
+  "generated_at": "2026-08-17T10:00:27+00:00",
+  "record_count": 4555,
   "record_count_by_state": {
     "CA": 32,
     "CT": 56,
     "DE": 201,
-    "FL": 510,
+    "FL": 511,
     "GA": 8,
     "MA": 8,
     "MD": 2,
-    "ME": 86,
+    "ME": 87,
     "MO": 939,
-    "MS": 2073,
+    "MS": 2067,
     "NC": 8,
     "NH": 1,
     "NJ": 49,
     "NY": 80,
-    "RI": 68,
+    "RI": 69,
     "SC": 55,
     "TX": 47,
     "VA": 186,
     "WA": 149
   },
   "record_count_by_type": {
-    "document": 4426,
+    "document": 4423,
     "source_page": 132
   }
 }
