@@ -1,6 +1,6 @@
 {
   "dataset": "current",
-  "generated_at": "2026-08-17T09:59:05+00:00",
+  "generated_at": "2026-08-24T10:06:02+00:00",
   "label": "Current IRS forms, instructions, and publications",
   "record_count": 3130,
   "records": [
@@ -2747,7 +2747,7 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f911.pdf",
-      "posted_date": "06/05/2026",
+      "posted_date": "08/17/2026",
       "product_number": "Form 911",
       "revision_date": "Jun 2026",
       "revision_year": "2026",
@@ -2758,12 +2758,12 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f911sp.pdf",
-      "posted_date": "07/16/2026",
+      "posted_date": "08/17/2026",
       "product_number": "Form 911 (sp)",
       "revision_date": "Jun 2026",
       "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=1",
-      "title": "Request for Taxpayer Advocate Service Assistance (And Application for Taxpayer Assistance Order) (Spanish Version)"
+      "title": "Request for Taxpayer Advocate Service Assistance (and Application for Taxpayer Assistance Order) (Spanish Version)"
     },
     {
       "dataset": "current",
@@ -7972,10 +7972,10 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p1179.pdf",
-      "posted_date": "07/30/2026",
+      "posted_date": "08/21/2026",
       "product_number": "Publication 1179",
-      "revision_date": "Jul 2025",
-      "revision_year": "2025",
+      "revision_date": "Jul 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=3",
       "title": "General Rules and Specifications For Substitute Forms 1096, 1098, 1099, 5498, and Certain Other Information Returns"
     },
@@ -8511,12 +8511,12 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p1586.pdf",
-      "posted_date": "07/07/2023",
+      "posted_date": "08/18/2026",
       "product_number": "Publication 1586",
-      "revision_date": "Jul 2023",
-      "revision_year": "2023",
+      "revision_date": "Aug 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=3",
-      "title": "Reasonable Cause Regulations and Requirements for Missing and Incorrect Name/TINs on Information Returns (including instructions for reading CD/DVDs)"
+      "title": "Reasonable Cause Regulations & Requirements for Missing and Incorrect Name/TINs on Information Returns"
     },
     {
       "dataset": "current",
@@ -24428,12 +24428,23 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p6171.pdf",
-      "posted_date": "07/27/2026",
+      "posted_date": "08/19/2026",
       "product_number": "Publication 6171",
       "revision_date": "Jul 2026",
       "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=11",
       "title": "Automatic Exemption from Penalty (AEP)"
+    },
+    {
+      "dataset": "current",
+      "kind": "publication",
+      "pdf_url": "https://www.irs.gov/pub/irs-pdf/p6171sp.pdf",
+      "posted_date": "08/19/2026",
+      "product_number": "Publication 6171 (sp)",
+      "revision_date": "Jul 2026",
+      "revision_year": "2026",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=11",
+      "title": "Automatic Exemption from Penalty (AEP) (Spanish Version)"
     },
     {
       "dataset": "current",
@@ -26018,17 +26029,6 @@
       "revision_year": "2023",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=11",
       "title": "Continuing Education Provider Application and Request for Provider Number"
-    },
-    {
-      "dataset": "current",
-      "kind": "form",
-      "pdf_url": "https://www.irs.gov/pub/irs-pdf/f8508.pdf",
-      "posted_date": "05/28/2026",
-      "product_number": "Form 8508",
-      "revision_date": "May 2026",
-      "revision_year": "2026",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=11",
-      "title": "Application for a Waiver from Electronic Filing of Information Returns"
     },
     {
       "dataset": "current",
@@ -33591,9 +33591,9 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f15725.pdf",
-      "posted_date": "05/14/2026",
+      "posted_date": "08/20/2026",
       "product_number": "Form 15725",
-      "revision_date": "May 2026",
+      "revision_date": "Aug 2026",
       "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=15",
       "title": "Word Count Formula Worksheet"
