@@ -6,17 +6,41 @@
       "jurisdiction_code": "NH",
       "source_label": "Forms",
       "url": "https://www.revenue.nh.gov/forms"
+    },
+    {
+      "error": "failed to fetch https://www.mass.gov/lists/dor-alcoholic-beverages-excise-forms-and-reports: HTTP Error 403: Forbidden",
+      "jurisdiction_code": "MA",
+      "source_label": "Alcohol Beverages Excise",
+      "url": "https://www.mass.gov/lists/dor-alcoholic-beverages-excise-forms-and-reports"
+    },
+    {
+      "error": "failed to fetch https://www.mass.gov/lists/ma-dor-sales-and-use-tax-forms: HTTP Error 403: Forbidden",
+      "jurisdiction_code": "MA",
+      "source_label": "Meals, Food & Beverage",
+      "url": "https://www.mass.gov/lists/ma-dor-sales-and-use-tax-forms"
+    },
+    {
+      "error": "failed to fetch https://www.mass.gov/lists/massachusetts-dor-business-tax-forms: HTTP Error 403: Forbidden",
+      "jurisdiction_code": "MA",
+      "source_label": "Business Taxes",
+      "url": "https://www.mass.gov/lists/massachusetts-dor-business-tax-forms"
+    },
+    {
+      "error": "failed to fetch https://www.mass.gov/lists/motor-vehicle-sales-and-use-mvu-tax-forms: HTTP Error 403: Forbidden",
+      "jurisdiction_code": "MA",
+      "source_label": "Motor Vehicle",
+      "url": "https://www.mass.gov/lists/motor-vehicle-sales-and-use-mvu-tax-forms"
     }
   ],
-  "generated_at": "2026-09-07T15:14:25+00:00",
-  "record_count": 4555,
+  "generated_at": "2026-09-14T15:58:33+00:00",
+  "record_count": 4546,
   "record_count_by_state": {
     "CA": 32,
     "CT": 56,
-    "DE": 201,
+    "DE": 200,
     "FL": 512,
     "GA": 8,
-    "MA": 8,
+    "MA": 12,
     "MD": 2,
     "ME": 88,
     "MO": 939,
@@ -25,14 +49,14 @@
     "NH": 1,
     "NJ": 49,
     "NY": 77,
-    "RI": 69,
-    "SC": 55,
+    "RI": 63,
+    "SC": 49,
     "TX": 47,
     "VA": 186,
     "WA": 150
   },
   "record_count_by_type": {
-    "document": 4423,
-    "source_page": 132
+    "document": 4411,
+    "source_page": 135
   }
 }

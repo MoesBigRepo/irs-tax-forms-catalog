@@ -1,6 +1,6 @@
 {
   "dataset": "prior",
-  "generated_at": "2026-09-07T15:13:03+00:00",
+  "generated_at": "2026-09-14T15:57:25+00:00",
   "label": "Prior-year IRS forms and instructions",
   "record_count": 24151,
   "records": [
@@ -111151,17 +111151,6 @@
     {
       "dataset": "prior",
       "kind": "instruction",
-      "pdf_url": "https://www.irs.gov/pub/irs-prior/i1099qa--122026.pdf",
-      "posted_date": "",
-      "product_number": "Instruction 1099-QA and 5498-QA",
-      "revision_date": "Dec 2026",
-      "revision_year": "2026",
-      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=50",
-      "title": "Instructions for Forms 1099-QA and 5498-QA, Distributions From ABLE Accounts and ABLE Account Contribution Information"
-    },
-    {
-      "dataset": "prior",
-      "kind": "instruction",
       "pdf_url": "https://www.irs.gov/pub/irs-prior/i1099qa--2026.pdf",
       "posted_date": "",
       "product_number": "Instruction 1099-QA and 5498-QA",
@@ -111169,6 +111158,17 @@
       "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=50",
       "title": "Instructions for Forms 1099-QA and 5498 QA"
+    },
+    {
+      "dataset": "prior",
+      "kind": "instruction",
+      "pdf_url": "https://www.irs.gov/pub/irs-prior/i1099qa--122026.pdf",
+      "posted_date": "",
+      "product_number": "Instruction 1099-QA and 5498-QA",
+      "revision_date": "Dec 2026",
+      "revision_year": "2026",
+      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=50",
+      "title": "Instructions for Forms 1099-QA and 5498-QA, Distributions From ABLE Accounts and ABLE Account Contribution Information"
     },
     {
       "dataset": "prior",
