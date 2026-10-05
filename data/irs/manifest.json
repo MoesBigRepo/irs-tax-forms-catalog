@@ -3,22 +3,22 @@
     {
       "csv_path": "data/irs/current/forms.csv",
       "dataset": "current",
-      "generated_at": "2026-09-28T17:40:43+00:00",
+      "generated_at": "2026-10-05T18:33:41+00:00",
       "json_path": "data/irs/current/forms.json",
       "label": "Current IRS forms, instructions, and publications",
-      "record_count": 199,
+      "record_count": 3139,
       "source_url": "https://www.irs.gov/forms-instructions-and-publications"
     },
     {
       "csv_path": "data/irs/prior/forms.csv",
       "dataset": "prior",
-      "generated_at": "2026-09-28T17:43:46+00:00",
+      "generated_at": "2026-10-05T18:37:03+00:00",
       "json_path": "data/irs/prior/forms.json",
       "label": "Prior-year IRS forms and instructions",
-      "record_count": 24156,
+      "record_count": 24155,
       "source_url": "https://www.irs.gov/prior-year-forms-and-instructions"
     }
   ],
-  "generated_at": "2026-09-28T17:43:47+00:00",
+  "generated_at": "2026-10-05T18:37:03+00:00",
   "source": "IRS.gov"
 }

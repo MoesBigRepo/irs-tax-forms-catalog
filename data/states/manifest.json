@@ -6,17 +6,23 @@
       "jurisdiction_code": "NH",
       "source_label": "Forms",
       "url": "https://www.revenue.nh.gov/forms"
+    },
+    {
+      "error": "failed to fetch https://www.mass.gov/info-details/massachusetts-dor-tax-forms-and-instructions: HTTP Error 403: Forbidden",
+      "jurisdiction_code": "MA",
+      "source_label": "DOR Tax Forms and Instructions",
+      "url": "https://www.mass.gov/info-details/massachusetts-dor-tax-forms-and-instructions"
     }
   ],
-  "generated_at": "2026-09-28T17:45:06+00:00",
-  "record_count": 4521,
+  "generated_at": "2026-10-05T18:38:07+00:00",
+  "record_count": 4514,
   "record_count_by_state": {
     "CA": 32,
     "CT": 57,
     "DE": 200,
     "FL": 511,
     "GA": 8,
-    "MA": 8,
+    "MA": 1,
     "MD": 2,
     "ME": 85,
     "MO": 940,
@@ -33,6 +39,6 @@
   },
   "record_count_by_type": {
     "document": 4392,
-    "source_page": 129
+    "source_page": 122
   }
 }

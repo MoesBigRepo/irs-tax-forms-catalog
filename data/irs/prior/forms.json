@@ -1,8 +1,8 @@
 {
   "dataset": "prior",
-  "generated_at": "2026-09-28T17:43:46+00:00",
+  "generated_at": "2026-10-05T18:37:03+00:00",
   "label": "Prior-year IRS forms and instructions",
-  "record_count": 24156,
+  "record_count": 24155,
   "records": [
     {
       "dataset": "prior",
@@ -239058,17 +239058,6 @@
     },
     {
       "dataset": "prior",
-      "kind": "instruction",
-      "pdf_url": "https://www.irs.gov/pub/irs-prior/i8888--112026.pdf",
-      "posted_date": "",
-      "product_number": "Instruction 8888",
-      "revision_date": "Nov 2026",
-      "revision_year": "2026",
-      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=108",
-      "title": "Instructions for Form 8888, Allocation of Refund"
-    },
-    {
-      "dataset": "prior",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-prior/f8889--2025.pdf",
       "posted_date": "",
@@ -239812,7 +239801,7 @@
       "product_number": "Form 8896",
       "revision_date": "2008",
       "revision_year": "2008",
-      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=109",
+      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=108",
       "title": "Low Sulfur Diesel Fuel Production Credit"
     },
     {
@@ -242012,7 +242001,7 @@
       "product_number": "Instruction 8911",
       "revision_date": "2023",
       "revision_year": "2023",
-      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=110",
+      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=109",
       "title": "Instructions for Form 8911, Alternative Fuel Vehicle Refueling Property Credit"
     },
     {
@@ -244212,7 +244201,7 @@
       "product_number": "Form 8926",
       "revision_date": "2008",
       "revision_year": "2008",
-      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=111",
+      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=110",
       "title": "Disqualified Corporate Interest Expense Disallowed Under Section 163(j) and Related Information"
     },
     {
@@ -246412,7 +246401,7 @@
       "product_number": "Form 8947",
       "revision_date": "2013",
       "revision_year": "2013",
-      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=112",
+      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=111",
       "title": "Report of Branded Prescription Drug Information"
     },
     {
@@ -248612,7 +248601,7 @@
       "product_number": "Form 8964-TRA",
       "revision_date": "Dec 2025",
       "revision_year": "2025",
-      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=113",
+      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=112",
       "title": "Section 987 Transition Information"
     },
     {
@@ -250812,7 +250801,7 @@
       "product_number": "Form 9452",
       "revision_date": "2018",
       "revision_year": "2018",
-      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=114",
+      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=113",
       "title": "Filing Assistance Program"
     },
     {
@@ -253012,7 +253001,7 @@
       "product_number": "Form CT-1",
       "revision_date": "2018",
       "revision_year": "2018",
-      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=115",
+      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=114",
       "title": "Employer's Annual Railroad Retirement Tax Return"
     },
     {
@@ -255212,7 +255201,7 @@
       "product_number": "Form SS-8",
       "revision_date": "1990",
       "revision_year": "1990",
-      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=116",
+      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=115",
       "title": "Determination of Worker Status for Purposes of Federal Employment Taxes and Income Tax Withholding"
     },
     {
@@ -257412,7 +257401,7 @@
       "product_number": "Form W-2C",
       "revision_date": "2001",
       "revision_year": "2001",
-      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=117",
+      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=116",
       "title": "Corrected Wage and Tax Statement (Info Copy Only)"
     },
     {
@@ -259612,7 +259601,7 @@
       "product_number": "Form W-3",
       "revision_date": "1992",
       "revision_year": "1992",
-      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=118",
+      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=117",
       "title": "Transmittal of WAGE and Tax Statements (Info Copy Only)"
     },
     {
@@ -261812,7 +261801,7 @@
       "product_number": "Form W-4P",
       "revision_date": "1998",
       "revision_year": "1998",
-      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=119",
+      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=118",
       "title": "Withholding Certificate for Pension or Annuity Payments"
     },
     {
@@ -264012,7 +264001,7 @@
       "product_number": "Instruction W-8BEN",
       "revision_date": "2003",
       "revision_year": "2003",
-      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=120",
+      "source_page_url": "https://www.irs.gov/prior-year-forms-and-instructions?items_per_page=200&page=119",
       "title": "Instructions for Form W-8BEN, Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding"
     },
     {
