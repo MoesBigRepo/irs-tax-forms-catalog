@@ -1,6 +1,6 @@
 {
   "dataset": "current",
-  "generated_at": "2026-10-12T19:05:28+00:00",
+  "generated_at": "2026-10-19T16:29:32+00:00",
   "label": "Current IRS forms, instructions, and publications",
   "record_count": 3140,
   "records": [
@@ -6574,6 +6574,17 @@
     {
       "dataset": "current",
       "kind": "form",
+      "pdf_url": "https://www.irs.gov/pub/irs-pdf/f1099lps.pdf",
+      "posted_date": "10/16/2026",
+      "product_number": "Form 1099-LPS",
+      "revision_date": "Dec 2026",
+      "revision_year": "2026",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=2",
+      "title": "Long-Term Care Premiums Paid Statement"
+    },
+    {
+      "dataset": "current",
+      "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f1099ls.pdf",
       "posted_date": "03/19/2025",
       "product_number": "Form 1099-LS",
@@ -6590,7 +6601,7 @@
       "product_number": "Instruction 1099-LS",
       "revision_date": "Apr 2025",
       "revision_year": "2025",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=2",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=3",
       "title": "Instructions for Form 1099-LS, Reportable Life Insurance Sale"
     },
     {
@@ -8790,7 +8801,7 @@
       "product_number": "Publication 2105",
       "revision_date": "May 2023",
       "revision_year": "2023",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=3",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=4",
       "title": "Why do I have to Pay Taxes?"
     },
     {
@@ -9804,28 +9815,6 @@
       "revision_year": "2024",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=4",
       "title": "IRS Strategic Operating Plan Annual Update"
-    },
-    {
-      "dataset": "current",
-      "kind": "publication",
-      "pdf_url": "https://www.irs.gov/pub/irs-pdf/p3753.pdf",
-      "posted_date": "07/08/2025",
-      "product_number": "Publication 3753",
-      "revision_date": "Jun 2025",
-      "revision_year": "2025",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=4",
-      "title": "Want to improve the IRS? Speak Up!"
-    },
-    {
-      "dataset": "current",
-      "kind": "publication",
-      "pdf_url": "https://www.irs.gov/pub/irs-pdf/p3753sp.pdf",
-      "posted_date": "01/12/2026",
-      "product_number": "Publication 3753 (sp)",
-      "revision_date": "Jun 2025",
-      "revision_year": "2025",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=4",
-      "title": "If you want to improve the IRS - Speak Up (Spanish Version)"
     },
     {
       "dataset": "current",
@@ -11001,7 +10990,7 @@
       "product_number": "Form 4361",
       "revision_date": "Jan 2011",
       "revision_year": "2011",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=5",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=4",
       "title": "Application for Exemption From Self-Employment Tax for Use By Ministers, Members of Religious Orders and Christian Science Practitioners"
     },
     {
@@ -12075,23 +12064,34 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p4695pr.pdf",
-      "posted_date": "10/06/2025",
-      "product_number": "Publication 4695 (PR)",
-      "revision_date": "Oct 2025",
-      "revision_year": "2025",
+      "posted_date": "10/13/2026",
+      "product_number": "Publication 4695",
+      "revision_date": "Oct 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=5",
-      "title": "VITA/TCE Puerto Rico Volunteer Test"
+      "title": "VITA/TCE Puerto Rico Volunteer Test (Puerto Rico)"
+    },
+    {
+      "dataset": "current",
+      "kind": "publication",
+      "pdf_url": "https://www.irs.gov/pub/irs-pdf/p4695a.pdf",
+      "posted_date": "10/13/2026",
+      "product_number": "Publication 4695-A",
+      "revision_date": "Oct 2026",
+      "revision_year": "2026",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=5",
+      "title": "VITA/TCE Puerto Rico Volunteer Answer Key"
     },
     {
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p4696pr.pdf",
-      "posted_date": "10/09/2025",
+      "posted_date": "10/13/2026",
       "product_number": "Publication 4696",
-      "revision_date": "Oct 2025",
-      "revision_year": "2025",
+      "revision_date": "Oct 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=5",
-      "title": "VITA/TCE Puerto Rico Resource Guide"
+      "title": "VITA/TCE Puerto Rico Resource Guide (Puerto Rico)"
     },
     {
       "dataset": "current",
@@ -15025,10 +15025,10 @@
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p5313.pdf",
       "posted_date": "10/08/2026",
       "product_number": "Publication 5313",
-      "revision_date": "Feb 2026",
+      "revision_date": "Oct 2026",
       "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=6",
-      "title": "Tax Exempt & Government Entities (TE/GE) Program Letter"
+      "title": "Tax Exempt & Government Entities (TE/GE) Program Letter Fiscal Year 2027"
     },
     {
       "dataset": "current",
@@ -15133,7 +15133,7 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p5327.pdf",
-      "posted_date": "09/23/2026",
+      "posted_date": "10/14/2026",
       "product_number": "Publication 5327",
       "revision_date": "Sep 2026",
       "revision_year": "2026",
@@ -20501,10 +20501,10 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p5683.pdf",
-      "posted_date": "10/23/2025",
+      "posted_date": "10/13/2026",
       "product_number": "Publication 5683",
-      "revision_date": "Oct 2025",
-      "revision_year": "2025",
+      "revision_date": "Oct 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=9",
       "title": "VITA/TCE Handbook for Partners and Site Coordinators"
     },
@@ -20699,10 +20699,10 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p5719.pdf",
-      "posted_date": "09/05/2025",
+      "posted_date": "10/13/2026",
       "product_number": "Publication 5719",
-      "revision_date": "Aug 2025",
-      "revision_year": "2025",
+      "revision_date": "Oct 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=9",
       "title": "Information Returns Intake System (IRIS) Test Package for Information Returns"
     },
@@ -23273,9 +23273,9 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p6021.pdf",
-      "posted_date": "08/24/2026",
+      "posted_date": "10/14/2026",
       "product_number": "Publication 6021",
-      "revision_date": "Aug 2026",
+      "revision_date": "Oct 2026",
       "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=10",
       "title": "LB&I Organization Chart"
@@ -23493,10 +23493,10 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p6045.pdf",
-      "posted_date": "02/27/2025",
+      "posted_date": "10/13/2026",
       "product_number": "Publication 6045",
-      "revision_date": "Feb 2025",
-      "revision_year": "2025",
+      "revision_date": "Oct 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=10",
       "title": "Tax-Exempt Entities and the Investment Tax Credit"
     },
@@ -24131,10 +24131,10 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p6124.pdf",
-      "posted_date": "12/15/2025",
+      "posted_date": "10/16/2026",
       "product_number": "Publication 6124",
-      "revision_date": "Nov 2025",
-      "revision_year": "2025",
+      "revision_date": "Oct 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=10",
       "title": "5 Things to Know About the Adoption Tax Credit"
     },
@@ -24252,7 +24252,7 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p6142.pdf",
-      "posted_date": "03/23/2026",
+      "posted_date": "10/19/2026",
       "product_number": "Publication 6142",
       "revision_date": "Mar 2026",
       "revision_year": "2026",
@@ -24648,10 +24648,10 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f6252.pdf",
-      "posted_date": "11/20/2025",
+      "posted_date": "10/16/2026",
       "product_number": "Form 6252",
-      "revision_date": "2025",
-      "revision_year": "2025",
+      "revision_date": "2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=11",
       "title": "Installment Sale Income"
     },
@@ -25968,10 +25968,10 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f8453.pdf",
-      "posted_date": "10/16/2025",
+      "posted_date": "10/16/2026",
       "product_number": "Form 8453",
-      "revision_date": "2025",
-      "revision_year": "2025",
+      "revision_date": "2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=11",
       "title": "U.S. Individual Income Tax Transmittal for an IRS e-file Return"
     },
@@ -30920,8 +30920,8 @@
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f13614ru.pdf",
       "posted_date": "10/09/2026",
       "product_number": "Form 13614-C (ru)",
-      "revision_date": "Oct 2025",
-      "revision_year": "2025",
+      "revision_date": "Oct 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=14",
       "title": "Intake/Interview and Quality Review Sheet (Russian Version)"
     },
@@ -30984,23 +30984,23 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f13614cn.pdf",
-      "posted_date": "11/05/2025",
+      "posted_date": "10/13/2026",
       "product_number": "Form 13614-C (zh-s)",
-      "revision_date": "Oct 2025",
-      "revision_year": "2025",
+      "revision_date": "Oct 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=14",
-      "title": "Intake/Interview and Quality Review Sheet (Chinese Simplified Version)"
+      "title": "Intake/Interview and Quality Review Sheet (Chinese-Simplified Version)"
     },
     {
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f13614ct.pdf",
-      "posted_date": "11/10/2025",
+      "posted_date": "10/13/2026",
       "product_number": "Form 13614-C (zh-t)",
-      "revision_date": "Oct 2025",
-      "revision_year": "2025",
+      "revision_date": "Oct 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=14",
-      "title": "Intake/Interview and Quality Review Sheet (Chinese Traditional Version)"
+      "title": "Intake/Interview and Quality Review Sheet (Chinese-Traditional Version)"
     },
     {
       "dataset": "current",

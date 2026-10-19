@@ -2,23 +2,29 @@
   "dataset": "states",
   "errors": [
     {
+      "error": "failed to fetch https://www.maine.gov/revenue/tax-return-forms: HTTP Error 403: Forbidden",
+      "jurisdiction_code": "ME",
+      "source_label": "Tax Return Forms",
+      "url": "https://www.maine.gov/revenue/tax-return-forms"
+    },
+    {
       "error": "failed to fetch https://www.revenue.nh.gov/forms: HTTP Error 403: Forbidden",
       "jurisdiction_code": "NH",
       "source_label": "Forms",
       "url": "https://www.revenue.nh.gov/forms"
     }
   ],
-  "generated_at": "2026-10-12T19:07:21+00:00",
-  "record_count": 4518,
+  "generated_at": "2026-10-19T16:34:17+00:00",
+  "record_count": 4405,
   "record_count_by_state": {
     "CA": 32,
     "CT": 57,
     "DE": 200,
-    "FL": 512,
+    "FL": 480,
     "GA": 8,
     "MA": 8,
     "MD": 2,
-    "ME": 82,
+    "ME": 1,
     "MO": 940,
     "MS": 2065,
     "NC": 8,
@@ -32,7 +38,7 @@
     "WA": 172
   },
   "record_count_by_type": {
-    "document": 4389,
-    "source_page": 129
+    "document": 4283,
+    "source_page": 122
   }
 }
