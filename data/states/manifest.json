@@ -14,13 +14,13 @@
       "url": "https://www.revenue.nh.gov/forms"
     }
   ],
-  "generated_at": "2026-10-19T16:34:17+00:00",
-  "record_count": 4405,
+  "generated_at": "2026-10-26T16:14:39+00:00",
+  "record_count": 4401,
   "record_count_by_state": {
     "CA": 32,
     "CT": 57,
     "DE": 200,
-    "FL": 480,
+    "FL": 479,
     "GA": 8,
     "MA": 8,
     "MD": 2,
@@ -29,16 +29,16 @@
     "MS": 2065,
     "NC": 8,
     "NH": 1,
-    "NJ": 4,
+    "NJ": 3,
     "NY": 77,
     "RI": 63,
     "SC": 55,
-    "TX": 46,
+    "TX": 45,
     "VA": 186,
-    "WA": 172
+    "WA": 171
   },
   "record_count_by_type": {
-    "document": 4283,
-    "source_page": 122
+    "document": 4280,
+    "source_page": 121
   }
 }
