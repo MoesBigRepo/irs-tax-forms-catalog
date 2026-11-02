@@ -12,10 +12,16 @@
       "jurisdiction_code": "NH",
       "source_label": "Forms",
       "url": "https://www.revenue.nh.gov/forms"
+    },
+    {
+      "error": "failed to fetch https://mytax.mo.gov/rptp/portal/home/returned-refund-checks: The read operation timed out",
+      "jurisdiction_code": "MO",
+      "source_label": "Return Refund Checks",
+      "url": "https://mytax.mo.gov/rptp/portal/home/returned-refund-checks"
     }
   ],
-  "generated_at": "2026-10-26T16:14:39+00:00",
-  "record_count": 4401,
+  "generated_at": "2026-11-02T19:38:52+00:00",
+  "record_count": 4402,
   "record_count_by_state": {
     "CA": 32,
     "CT": 57,
@@ -35,10 +41,10 @@
     "SC": 55,
     "TX": 45,
     "VA": 186,
-    "WA": 171
+    "WA": 172
   },
   "record_count_by_type": {
-    "document": 4280,
+    "document": 4281,
     "source_page": 121
   }
 }
