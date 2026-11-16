@@ -20,8 +20,8 @@
       "url": "https://mytax.mo.gov/rptp/portal/home/returned-refund-checks"
     }
   ],
-  "generated_at": "2026-11-09T19:59:17+00:00",
-  "record_count": 4399,
+  "generated_at": "2026-11-16T19:47:00+00:00",
+  "record_count": 4400,
   "record_count_by_state": {
     "CA": 32,
     "CT": 57,
@@ -41,10 +41,10 @@
     "SC": 55,
     "TX": 45,
     "VA": 186,
-    "WA": 172
+    "WA": 173
   },
   "record_count_by_type": {
-    "document": 4278,
+    "document": 4279,
     "source_page": 121
   }
 }

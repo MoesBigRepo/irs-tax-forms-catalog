@@ -1,8 +1,8 @@
 {
   "dataset": "current",
-  "generated_at": "2026-11-09T19:51:44+00:00",
+  "generated_at": "2026-11-16T19:39:07+00:00",
   "label": "Current IRS forms, instructions, and publications",
-  "record_count": 3133,
+  "record_count": 3134,
   "records": [
     {
       "dataset": "current",
@@ -3198,10 +3198,10 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f943.pdf",
-      "posted_date": "12/04/2025",
+      "posted_date": "11/16/2026",
       "product_number": "Form 943",
-      "revision_date": "2025",
-      "revision_year": "2025",
+      "revision_date": "2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=1",
       "title": "Employer's Annual Tax Return for Agricultural Employees"
     },
@@ -3209,12 +3209,12 @@
       "dataset": "current",
       "kind": "instruction",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/i943.pdf",
-      "posted_date": "12/04/2025",
+      "posted_date": "11/16/2026",
       "product_number": "Instruction 943",
-      "revision_date": "2025",
-      "revision_year": "2025",
+      "revision_date": "2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=1",
-      "title": "Instructions for Form 943, Employer's Annual Tax Return for Agricultural Employees"
+      "title": "Instructions for Form 943, Employer's Annual Federal Tax Return for Agricultural Employees"
     },
     {
       "dataset": "current",
@@ -3352,23 +3352,23 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f944.pdf",
-      "posted_date": "11/24/2025",
+      "posted_date": "11/16/2026",
       "product_number": "Form 944",
-      "revision_date": "2025",
-      "revision_year": "2025",
+      "revision_date": "2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=1",
-      "title": "Employer's Annual Federal Tax Return"
+      "title": "Employer's ANNUAL Federal Tax Return"
     },
     {
       "dataset": "current",
       "kind": "instruction",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/i944.pdf",
-      "posted_date": "11/24/2025",
+      "posted_date": "11/16/2026",
       "product_number": "Instruction 944",
-      "revision_date": "2025",
-      "revision_year": "2025",
+      "revision_date": "2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=1",
-      "title": "Instructions for Form 944, Employer's Annual Federal Tax Return"
+      "title": "Instructions for Form 944, Employer's ANNUAL Federal Tax Return"
     },
     {
       "dataset": "current",
@@ -4949,8 +4949,8 @@
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f1040s8.pdf",
       "posted_date": "11/09/2026",
       "product_number": "Form 1040 (Schedule 8812)",
-      "revision_date": "2025",
-      "revision_year": "2025",
+      "revision_date": "2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=2",
       "title": "Credits for Qualifying Children and Other Dependents"
     },
@@ -5334,8 +5334,8 @@
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f1040ssp.pdf",
       "posted_date": "11/09/2026",
       "product_number": "Form 1040 (Schedule SE) (sp)",
-      "revision_date": "2025",
-      "revision_year": "2025",
+      "revision_date": "2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=2",
       "title": "Self-Employment Tax (Spanish Version)"
     },
@@ -5343,7 +5343,7 @@
       "dataset": "current",
       "kind": "instruction",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/i1040ssp.pdf",
-      "posted_date": "11/14/2025",
+      "posted_date": "11/13/2026",
       "product_number": "Instruction 1040 (Schedule SE) (sp)",
       "revision_date": "2025",
       "revision_year": "2025",
@@ -5442,7 +5442,7 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f1040v.pdf",
-      "posted_date": "01/06/2026",
+      "posted_date": "11/10/2026",
       "product_number": "Form 1040-V",
       "revision_date": "2025",
       "revision_year": "2025",
@@ -6058,7 +6058,7 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f1094b.pdf",
-      "posted_date": "10/09/2025",
+      "posted_date": "11/13/2026",
       "product_number": "Form 1094-B",
       "revision_date": "2025",
       "revision_year": "2025",
@@ -6113,7 +6113,7 @@
       "dataset": "current",
       "kind": "instruction",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/i1095a.pdf",
-      "posted_date": "10/16/2025",
+      "posted_date": "11/13/2026",
       "product_number": "Instruction 1095-A",
       "revision_date": "2025",
       "revision_year": "2025",
@@ -7466,10 +7466,10 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f1120pol.pdf",
-      "posted_date": "11/13/2025",
+      "posted_date": "11/13/2026",
       "product_number": "Form 1120-POL",
-      "revision_date": "2025",
-      "revision_year": "2025",
+      "revision_date": "2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=3",
       "title": "U.S. Income Tax Return for Certain Political Organizations"
     },
@@ -7477,10 +7477,10 @@
       "dataset": "current",
       "kind": "instruction",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/i1120pol.pdf",
-      "posted_date": "12/15/2025",
+      "posted_date": "11/13/2026",
       "product_number": "Instruction 1120-POL",
-      "revision_date": "2025",
-      "revision_year": "2025",
+      "revision_date": "2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=3",
       "title": "Instructions for Form 1120-POL, U.S. Income Tax Return for Certain Political Organizations"
     },
@@ -8159,12 +8159,12 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p1321.pdf",
-      "posted_date": "10/17/2025",
+      "posted_date": "11/12/2026",
       "product_number": "Publication 1321",
-      "revision_date": "Oct 2025",
-      "revision_year": "2025",
+      "revision_date": "Nov 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=3",
-      "title": "Special Instructions for Bona Fide Residents Of Puerto Rico Who Must File A U.S. Individual Income Tax Return (Form 1040 or Form 1040-SR)"
+      "title": "Special Instructions For Bona Fide Residents Of Puerto Rico Who Must File A U.S. Individual Income Tax Return (Form 1040 or Form 1040-SR)"
     },
     {
       "dataset": "current",
@@ -8401,10 +8401,10 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p1500.pdf",
-      "posted_date": "06/04/2025",
+      "posted_date": "11/13/2026",
       "product_number": "Publication 1500",
-      "revision_date": "Jun 2025",
-      "revision_year": "2025",
+      "revision_date": "Sep 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=3",
       "title": "The IRS Research Bulletin"
     },
@@ -9358,10 +9358,10 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p3112.pdf",
-      "posted_date": "12/16/2025",
+      "posted_date": "11/13/2026",
       "product_number": "Publication 3112",
-      "revision_date": "Nov 2025",
-      "revision_year": "2025",
+      "revision_date": "Nov 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=4",
       "title": "IRS E-File Application & Participation"
     },
@@ -9943,8 +9943,8 @@
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/i3903.pdf",
       "posted_date": "11/09/2026",
       "product_number": "Instruction 3903",
-      "revision_date": "2025",
-      "revision_year": "2025",
+      "revision_date": "2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=4",
       "title": "Instructions for Form 3903, Moving Expenses"
     },
@@ -10754,6 +10754,17 @@
     {
       "dataset": "current",
       "kind": "publication",
+      "pdf_url": "https://www.irs.gov/pub/irs-pdf/f4269emu.pdf",
+      "posted_date": "11/10/2026",
+      "product_number": "Publication 4269 (en-mul)",
+      "revision_date": "May 2026",
+      "revision_year": "2026",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=4",
+      "title": "Welcome! Do you require service in any language other than English? (English and Multiple Languages)"
+    },
+    {
+      "dataset": "current",
+      "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p4269.pdf",
       "posted_date": "05/17/2022",
       "product_number": "Publication 4269 (en-mul)",
@@ -10990,7 +11001,7 @@
       "product_number": "Publication 4345",
       "revision_date": "Sep 2023",
       "revision_year": "2023",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=4",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=5",
       "title": "Settlements-Taxability"
     },
     {
@@ -11327,10 +11338,10 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p4491.pdf",
-      "posted_date": "11/13/2025",
+      "posted_date": "11/13/2026",
       "product_number": "Publication 4491",
-      "revision_date": "Oct 2025",
-      "revision_year": "2025",
+      "revision_date": "Oct 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=5",
       "title": "VITA/TCE Training Guide"
     },
@@ -12878,7 +12889,7 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p4961.pdf",
-      "posted_date": "09/29/2026",
+      "posted_date": "11/13/2026",
       "product_number": "Publication 4961",
       "revision_date": "Oct 2026",
       "revision_year": "2026",
@@ -12955,10 +12966,10 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f4972.pdf",
-      "posted_date": "11/12/2025",
+      "posted_date": "11/09/2026",
       "product_number": "Form 4972",
-      "revision_date": "2025",
-      "revision_year": "2025",
+      "revision_date": "2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=5",
       "title": "Tax on Lump-Sum Distributions"
     },
@@ -13190,7 +13201,7 @@
       "product_number": "Publication 5055",
       "revision_date": "Dec 2015",
       "revision_year": "2015",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=5",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=6",
       "title": "Free Tax Return Preparation - Don't want to wait?"
     },
     {
@@ -15390,7 +15401,7 @@
       "product_number": "Publication 5348-A (vie)",
       "revision_date": "Dec 2025",
       "revision_year": "2025",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=6",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=7",
       "title": "Get Ready to File Taxes (Vietnamese Version)"
     },
     {
@@ -17069,12 +17080,12 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p5456.pdf",
-      "posted_date": "01/20/2026",
+      "posted_date": "11/12/2026",
       "product_number": "Publication 5456",
-      "revision_date": "Jan 2026",
+      "revision_date": "Nov 2026",
       "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=7",
-      "title": "Agency Financial Report 2025"
+      "title": "Agency Financial Report 2026"
     },
     {
       "dataset": "current",
@@ -17590,7 +17601,7 @@
       "product_number": "Publication 5473",
       "revision_date": "Jan 2021",
       "revision_year": "2021",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=7",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=8",
       "title": "Make Chapter 13 bankruptcy plan payments to the IRS more efficiently - pay electronically"
     },
     {
@@ -19790,7 +19801,7 @@
       "product_number": "Publication 5582",
       "revision_date": "Aug 2024",
       "revision_year": "2024",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=8",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=9",
       "title": "Exempt Organizations Technical Guide TG 60 Taxes on Excess Business Holdings IRC 4943"
     },
     {
@@ -21990,7 +22001,7 @@
       "product_number": "Publication 5868",
       "revision_date": "Oct 2023",
       "revision_year": "2023",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=9",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=10",
       "title": "Starting a new business? Choose a business structure"
     },
     {
@@ -22019,10 +22030,10 @@
       "dataset": "current",
       "kind": "publication",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/p5876.pdf",
-      "posted_date": "10/10/2024",
+      "posted_date": "11/12/2026",
       "product_number": "Publication 5876",
-      "revision_date": "Oct 2024",
-      "revision_year": "2024",
+      "revision_date": "Oct 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=10",
       "title": "VITA/TCE Foreign Student and Scholar Volunteer Training Guide"
     },
@@ -24190,7 +24201,7 @@
       "product_number": "Publication 6140",
       "revision_date": "Mar 2026",
       "revision_year": "2026",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=10",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=11",
       "title": "How Your Tax Bill or Refund May Be Different For the 2025 Tax Year"
     },
     {
@@ -26243,10 +26254,10 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f8606.pdf",
-      "posted_date": "12/12/2025",
+      "posted_date": "11/10/2026",
       "product_number": "Form 8606",
-      "revision_date": "2025",
-      "revision_year": "2025",
+      "revision_date": "2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=11",
       "title": "Nondeductible IRAs"
     },
@@ -26390,7 +26401,7 @@
       "product_number": "Form 8615",
       "revision_date": "2025",
       "revision_year": "2025",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=11",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=12",
       "title": "Tax for Certain Children Who Have Unearned Income"
     },
     {
@@ -26694,9 +26705,9 @@
       "dataset": "current",
       "kind": "instruction",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/i8804.pdf",
-      "posted_date": "01/16/2026",
+      "posted_date": "11/10/2026",
       "product_number": "Instruction 8804, 8805 and 8813",
-      "revision_date": "Jan 2026",
+      "revision_date": "Dec 2026",
       "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=12",
       "title": "Instructions for Forms 8804, 8805, and 8813"
@@ -26705,10 +26716,10 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f8804c.pdf",
-      "posted_date": "07/17/2012",
+      "posted_date": "11/10/2026",
       "product_number": "Form 8804-C",
-      "revision_date": "Mar 2009",
-      "revision_year": "2009",
+      "revision_date": "Dec 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=12",
       "title": "Certificate of Partner-Level Items to Reduce Section 1446 Withholding"
     },
@@ -26718,8 +26729,8 @@
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/i8804c.pdf",
       "posted_date": "11/09/2026",
       "product_number": "Instruction 8804-C",
-      "revision_date": "Nov 2012",
-      "revision_year": "2012",
+      "revision_date": "Dec 2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=12",
       "title": "Instructions for Form 8804-C, Certificate of Partner-Level Items to Reduce Section 1446 Withholding"
     },
@@ -26751,8 +26762,8 @@
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f8804w.pdf",
       "posted_date": "11/09/2026",
       "product_number": "Form 8804-W",
-      "revision_date": "2026",
-      "revision_year": "2026",
+      "revision_date": "2027",
+      "revision_year": "2027",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=12",
       "title": "Installment Payments of Section 1446 Tax for Partnerships"
     },
@@ -26762,10 +26773,10 @@
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/i8804w.pdf",
       "posted_date": "11/09/2026",
       "product_number": "Instruction 8804-W",
-      "revision_date": "2026",
-      "revision_year": "2026",
+      "revision_date": "2027",
+      "revision_year": "2027",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=12",
-      "title": "Instructions for Form 8804-W, Installment Payments of Section 1446 Tax for Partnerships"
+      "title": "Instructions for Form 8804-W (WORKSHEET), Installment Payments of Section 1446 Tax for Partnerships"
     },
     {
       "dataset": "current",
@@ -27057,10 +27068,10 @@
       "dataset": "current",
       "kind": "instruction",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/i8824.pdf",
-      "posted_date": "12/04/2025",
+      "posted_date": "11/10/2026",
       "product_number": "Instruction 8824",
-      "revision_date": "2025",
-      "revision_year": "2025",
+      "revision_date": "2026",
+      "revision_year": "2026",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=12",
       "title": "Instructions for Form 8824, Like-Kind Exchanges"
     },
@@ -28590,7 +28601,7 @@
       "product_number": "Form 8906",
       "revision_date": "2025",
       "revision_year": "2025",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=12",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=13",
       "title": "Distilled Spirits Credit"
     },
     {
@@ -28762,7 +28773,7 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/f8916a.pdf",
-      "posted_date": "12/10/2019",
+      "posted_date": "11/13/2026",
       "product_number": "Form 8916-A",
       "revision_date": "Nov 2019",
       "revision_year": "2019",
@@ -30790,7 +30801,7 @@
       "product_number": "Form 13614-C (ht)",
       "revision_date": "Oct 2026",
       "revision_year": "2026",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=13",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=14",
       "title": "Intake/Interview and Quality Review Sheet (Haitian Creole Version)"
     },
     {
@@ -32990,7 +33001,7 @@
       "product_number": "Form 15112",
       "revision_date": "Feb 2026",
       "revision_year": "2026",
-      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=14",
+      "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=15",
       "title": "Earned Income Credit Worksheet (CP 27)"
     },
     {
@@ -33987,12 +33998,12 @@
       "dataset": "current",
       "kind": "form",
       "pdf_url": "https://www.irs.gov/pub/irs-pdf/fw3pr.pdf",
-      "posted_date": "11/17/2025",
+      "posted_date": "11/13/2026",
       "product_number": "Form W-3 (PR) (en-sp)",
-      "revision_date": "2026",
-      "revision_year": "2026",
+      "revision_date": "2027",
+      "revision_year": "2027",
       "source_page_url": "https://www.irs.gov/forms-instructions-and-publications?items_per_page=200&page=15",
-      "title": "Transmittal of Withholding Statements (Info Copy Only) (Puerto Rico Version) (English and Spanish Version)"
+      "title": "Transmittal of Withholding Statements (Puerto Rico Version) (Puerto Rico Version)"
     },
     {
       "dataset": "current",
