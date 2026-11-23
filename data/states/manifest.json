@@ -14,14 +14,20 @@
       "url": "https://www.revenue.nh.gov/forms"
     },
     {
+      "error": "failed to fetch https://comptroller.texas.gov/forms/: HTTP Error 403: Forbidden",
+      "jurisdiction_code": "TX",
+      "source_label": "Texas Tax Forms",
+      "url": "https://comptroller.texas.gov/forms/"
+    },
+    {
       "error": "failed to fetch https://mytax.mo.gov/rptp/portal/home/returned-refund-checks: The read operation timed out",
       "jurisdiction_code": "MO",
       "source_label": "Return Refund Checks",
       "url": "https://mytax.mo.gov/rptp/portal/home/returned-refund-checks"
     }
   ],
-  "generated_at": "2026-11-16T19:47:00+00:00",
-  "record_count": 4400,
+  "generated_at": "2026-11-23T21:35:39+00:00",
+  "record_count": 4342,
   "record_count_by_state": {
     "CA": 32,
     "CT": 57,
@@ -31,20 +37,20 @@
     "MA": 8,
     "MD": 2,
     "ME": 1,
-    "MO": 939,
+    "MO": 920,
     "MS": 2065,
     "NC": 8,
     "NH": 1,
-    "NJ": 3,
+    "NJ": 4,
     "NY": 77,
     "RI": 63,
-    "SC": 55,
-    "TX": 45,
+    "SC": 59,
+    "TX": 1,
     "VA": 186,
     "WA": 173
   },
   "record_count_by_type": {
-    "document": 4279,
-    "source_page": 121
+    "document": 4228,
+    "source_page": 114
   }
 }
